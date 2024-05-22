@@ -1,0 +1,19 @@
+{
+  "gorevler": [
+    {
+      "baslik": "Matematik Ödevini Yap",
+      "favori": false,
+      "id": 608716
+    },
+    {
+      "favori": true,
+      "baslik": "Yazılım Öğrenmek İçin Video İzle",
+      "id": 429574
+    },
+    {
+      "favori": true,
+      "baslik": "Market Alışverişi Yap",
+      "id": 11257
+    }
+  ]
+}
